@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img size="60px" loading="lazy" src="https://github.com/Isa-abc/libre-frontend/blob/146e097dc32431d51df98e8ef43e07a6f79aeecc/LOGOLIBRE.png"/>
+<img size="30px" loading="lazy" src="https://github.com/Isa-abc/libre-frontend/blob/146e097dc32431d51df98e8ef43e07a6f79aeecc/LOGOLIBRE.png"/>
 </p>
 
 ## Descrição do projeto
